@@ -18,3 +18,4 @@ test your ai with the command
 
 ```python predict.py --top_k 5 "throat/test/1/throat1.jpg"```
 
+Hope you like it :+1
