@@ -1,3 +1,20 @@
-# AI Programming with Python Project
+# Throatai
 
-Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application.
+## The project aims to determin whether a picture of a throat contain baterial or viral infection
+
+### Technology and reference
+
+> the project uses pytorch AI framwork with vgg pretrained ai (also support other pretrained libraries)
+
+
+
+##Usage example
+
+Train your ai with the command:
+
+'''./train.py --gpu "./throat/"'''
+
+test your ai with the command 
+
+'''python predict.py --top_k 5 "throat/test/1/throat1.jpg"'''
+
