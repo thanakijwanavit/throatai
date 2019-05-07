@@ -12,9 +12,9 @@
 
 Train your ai with the command:
 
-'''./train.py --gpu "./throat/"'''
+```./train.py --gpu "./throat/"```
 
 test your ai with the command 
 
-'''python predict.py --top_k 5 "throat/test/1/throat1.jpg"'''
+```python predict.py --top_k 5 "throat/test/1/throat1.jpg"```
 
