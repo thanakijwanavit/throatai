@@ -8,7 +8,7 @@
 
 
 
-##Usage example
+## Usage example
 
 Train your ai with the command:
 
